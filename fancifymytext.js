@@ -32,3 +32,4 @@ function mooText(){
     }
     textArea.value = sentences.join(". ");  // set the text area value to the uppercase text
 }
+
